@@ -1,5 +1,5 @@
 # Lite_Rebar_Detector
-![img1](result/1587035705.2716005.png)
+![](result/1587035705.2716005.png)
 
 使用自定议小网络，在 [智能盘点—钢筋数量AI识别](https://www.datafountain.cn/competitions/332/details)
 使用 [Objects as Points](https://github.com/zengliangjun/CenterNet.git)，自定义小型网络。
@@ -51,4 +51,4 @@ python eval.py --task ctdetv2 --dataset rebar --resume --gpus 0 \
 ##  Reference
 - [Objects as Points](https://github.com/zengliangjun/CenterNet.git)
 
-![img1](result/1587035707.9053595.png)
+![](result/1587035707.9053595.png)
